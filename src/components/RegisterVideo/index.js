@@ -44,7 +44,7 @@ export default function RegisterVideo() {
 
   return (
     <StyledRegisterVideo>
-      <button className="add-video" onClick={() => setIsFormVisible(true)}>
+      <button className="add-video-button" onClick={() => setIsFormVisible(true)}>
         +
       </button>
 

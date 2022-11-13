@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 export const StyledRegisterVideo = styled.div`
-  .add-video {
+  .add-video-button {
     width: 50px;
     height: 50px;
     font-size: 20px;

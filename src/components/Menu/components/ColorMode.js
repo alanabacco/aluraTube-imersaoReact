@@ -15,8 +15,6 @@ export default function ColorModeProvider(props) {
 
   function toggleMode() {
     mode === "dark" ? setMode("light") : setMode("dark");
-    // if (mode === "dark") setMode("light");
-    // if (mode === "light") setMode("dark");
   }
 
   return (

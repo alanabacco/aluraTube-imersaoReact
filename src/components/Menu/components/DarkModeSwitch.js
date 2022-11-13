@@ -55,7 +55,6 @@ export default function DarkModeSwitch() {
         id="darkmode"
         type="checkbox"
         onChange={() => {
-          console.log("mudou o state");
           contexto.toggleMode();
         }}
       />
