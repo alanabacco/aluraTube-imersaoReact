@@ -37,4 +37,27 @@ export const CSSReset = createGlobalStyle`
       opacity: .5;
     }
   }
+
+  /* ===== Scrollbar CSS ===== */
+  /* Firefox */
+  * {
+    scrollbar-width: auto;
+    scrollbar-color: #e3e3e3 #787878;
+  }
+
+  /* Chrome, Edge, and Safari */
+  *::-webkit-scrollbar {
+    width: 4px;
+  }
+
+  *::-webkit-scrollbar-track {
+    background: #787878;
+  }
+
+  *::-webkit-scrollbar-thumb {
+    background-color: #e3e3e3;
+    border-radius: 4px;
+    border: 0px solid #ffffff;
+  }
+  /* ========================== */
 `;
