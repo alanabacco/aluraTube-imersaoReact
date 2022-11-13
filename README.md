@@ -26,8 +26,8 @@ Esse projeto foi desenvolvido durante a [imersão React](https://www.alura.com.b
 Para executar o projeto de maneira local, execute os comandos:
 
 ```
-> git clone https://github.com/alanabacco/imersaoAlura-aluraTube
-> cd repositorio
+> git clone https://github.com/alanabacco/aluraTube-imersaoReact
+> cd aluraTube-imersaoReact
 > npm install
 > npm run dev
 ```
