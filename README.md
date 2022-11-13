@@ -2,19 +2,16 @@
 
 ## 💻 Sobre o projeto
 
-Esse projeto foi desenvolvido durante a [imersão React](https://www.alura.com.br/imersao) da [Alura](https://www.alura.com.br/) em novembro de 2022, onde foi desenvolvido uma página de vídeos, separadas por playlists, com a possibilidade de cadastrar novos vídeos.
+Esse projeto foi desenvolvido durante a [imersão React](https://www.alura.com.br/imersao) da [Alura](https://www.alura.com.br/) em novembro de 2022, onde foi desenvolvido uma página de vídeos, separadas por playlists, com a possibilidade de cadastrar novos vídeos, utilizando Next js com React.
+
+[Projeto das aulas pela Alura](https://github.com/alura-challenges/aluratube/tree/a5)
 
 ### Funcionalidades
 
 - Tela inicial com os vídeos;
 - Barra de pesquisa;
-- Modal de cadastro de novos vídeos.
-
-<!-- ### 🖼️ Imagens do projeto
-
-<div align="center">
-   <img src="caminhoDaImg" alt="" width="600">
-</div> -->
+- Modal de cadastro de novos vídeos;
+- Página 404 personalizada.
 
 ## 🛠️ Ferramentas e tecnologias utilizadas
 
@@ -39,15 +36,19 @@ Abra o navegador e entre em 'https://localhost:3000'.
 
 ## 🚧 Melhorias a serem feitas
 
-[ ] Custom Error Page
 [ ] Favicon
-[ ] Responsivo
+
+[ ] Deixar responsivo
+
 [ ] Customizar com outras cores e formatos
+
 [ ] Implementar Typescript
+
 [ ] Separar mais os componentes
+
 [ ] Resolver questão das playlists
 
-## Notas
+## 📝 Anotações
 
 - `_app.js`: Carrega o setup base do projeto
 
